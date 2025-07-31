@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccce2ff6-49bd-45d7-bffa-f0a7b027db19" name="Changes" comment="added the generated graphs to the data folder as these are not publically available anywhere else">
+      <change beforePath="$PROJECT_DIR$/compute_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/compute_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualization_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization_tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualizations/quality_sphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualizations/quality_sphere.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Simon" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mp5kiMxKppHXKSw7ubqeyY8lYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5779146/Documents_local/3d_2d_gd/GD_3d_tool-master/GD_3d_tool-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\metrics_example" />
+      <recent name="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\deprecated" />
+      <recent name="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\layout_techniques" />
+      <recent name="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\fa2" />
+      <recent name="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.visualize_metrics">
+    <configuration name="consolid_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GD_3d_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consolid_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json_to_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GD_3d_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_to_pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="projections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualize_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GD_3d_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\5779146\Documents_local\3d_2d_gd\GD_3d_tool\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualize_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.consolid_metrics" />
+      <item itemvalue="Python.json_to_pickle" />
+      <item itemvalue="Python.projections" />
+      <item itemvalue="Python.runner" />
+      <item itemvalue="Python.visualize_metrics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.visualize_metrics" />
+        <item itemvalue="Python.json_to_pickle" />
+        <item itemvalue="Python.consolid_metrics" />
+        <item itemvalue="Python.projections" />
+        <item itemvalue="Python.runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccce2ff6-49bd-45d7-bffa-f0a7b027db19" name="Changes" comment="" />
+      <created>1678451827622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678451827622</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Combined the graph function with the scatterplot function in a new script. Now I can control node size!">
+      <created>1683535977467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683535977467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added a normalization step in the computation of the metrics, it now considers all viewpoints. Lowest value will be 0, highest 1.">
+      <created>1683540212003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683540212003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed crossing number metric so the best value is 1. Also commented out node resolution metric return">
+      <created>1683540262289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683540262289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Metrics_gd: split some metrics in separate functions so there's always one function per metric (optimizing will come later)&#10;parallel_bar_plot.py: commented out normalization process in bar plot (it now happens during metrics computation)">
+      <created>1683552965098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683552965098</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Metrics_gd: Added functions for computing node-node, node-edge, and edge-edge occlusions">
+      <created>1683620927043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683620927043</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a functioning 3d forceatlas 2 implementation (no cython yet)">
+      <created>1683630144445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683630144445</updated>
+    </task>
+    <task id="LOCAL-00007" summary="compute_metrics: one function for each metric (unoptimized at the moment)&#10;consolid_metrics: created a variable for the name sof quality metrics (could refer to constants in the future)&#10;constants: changed name of output directory and order of the metrics&#10;fa2util.pxd: included the dimension parameter in the relevant functions&#10;fa2util.py: reworked some functions so it can accept 2 or 3 dimensions and do calculations accordingly&#10;forceatlas2.py: included support for a dimension parameter&#10;metrics_gd.py: added margin as a parameter for edge edge occlusion&#10;pivot_mds.py: slightly adjusted a check for if the gtds needed to be calculated&#10;requirements_new.txt: included cython and tqdm&#10;run_fa2.py: included numpy import, dimension as parameter, assertion, coordinate return and barneshutoptimization use for 2 dimensions&#10;runner.py: loads of optimization and changes (such as saving gtds, saving .csv files earlier etc.)&#10;tsNET.py: added gtds as parameter, changed hyperparameter (iterations)&#10;visualization_tool.py: changed a variable name">
+      <created>1683797696052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683797696052</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init.py: no changes&#10;compute_metrics.py: created a functioning parallel processing function for computing the metrics. Made some small modifications to which graphs get evaluated first. Small modifications to getting the name of the graph (cases with - in the name are now handled). &#10;metrics_gd.py: changed some of the metrics that compute the slope of the edges. Added default parameters to some metrics&#10;metrics_gd_all.py: new script that computes all metrics in one function, currently much slower compared to doing it normally, so abandoned">
+      <created>1684162444793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684162444794</updated>
+    </task>
+    <task id="LOCAL-00009" summary="compute_metrics.py: added a keepawake function so that pc wont go into sleep mode. Adjusted the function metrics so that repeated computations arent performed. Saves a pickle after every run of each technique of each dataset&#10;&#10;consolid_metrics.py: using the names selected in constants.py&#10;&#10;metrics_gd.py: added metrics that compute multiple things at the same time (more efficient). changed the computation of occlusion metrics">
+      <created>1685964473330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685964473330</updated>
+    </task>
+    <task id="LOCAL-00010" summary="compute_metrics.py: added default value to radius, switched back go old parallel metrics function (with the improved metrics it works well)&#10;constants.py: added hardcoded perplexities for most graphs&#10;metrics_gd.py: changed a bunch of metrics to use STRtree to massively speed up computations&#10;requirements_new.txt: added wakepy&#10;runner.py: minor changes">
+      <created>1688721607827</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688721607828</updated>
+    </task>
+    <task id="LOCAL-00011" summary="see previous commit">
+      <created>1688721668142</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688721668142</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Refactoring in a lot of files, projection -&gt; layout, in variables, comments, function names etc.&#10;&#10;compute_metrics.py: radius set to 1/150 instead of 1/100&#10;constants.py: added a new variable for the directoy of the projections of metrics&#10;graph_2d.py: now the default script for creating the 2d graph layout in the tool&#10;graph_3d.py: now the default script for creating the 3d graph layout in the tool&#10;jitter_plots.py: added a new script to create plots to analyze the results&#10;metrics_gd.py: adjusted the normalized stress function so that the coordinates are properly scaled for the computation of stress&#10;parallel_bar_plot.py: added some text to the bar plots, related to % better in 3d&#10;projec_2d.py: added a new script that creates the 2d scatter plots of projections of the metrics in the tool&#10;projections.py: script to create the projections of the metric results&#10;requirements_new.txt: added seaborn&#10;visualization_tool.py: loads of refactoring, added 2 more widgets, added select view button to default view, added metric projection widget, added normalization of metric values here, so that we always compute and save the raw metric values">
+      <created>1689681936225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689681936225</updated>
+    </task>
+    <task id="LOCAL-00013" summary="removed outtdated tsnet script and changed the default">
+      <created>1689756349299</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689756349299</updated>
+    </task>
+    <task id="LOCAL-00014" summary="compute_metrics.py: changed a line to get the layouts of the dataset, previously it got all the layouts with the name in it: e.g. grid -&gt; grid, gridaug, grid1 etc, now grid matches just grid&#10;parallel_bar_plot.py: removed some texts of parallel bar plots, they now have their own widget&#10;project_2d.py: adjusted some minor things in the hovering of the datapoints&#10;visualization_tool.py: added the stats widget">
+      <created>1691145098669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691145098669</updated>
+    </task>
+    <task id="LOCAL-00015" summary="compute_metrics.py: removed some old code, added timers, added edge length loss function&#10;constants.py: added edge length loss function&#10;jitter_plots.py: added function for creating jitter plots for each metric with aggregated datasets&#10;metrics_gd.py: changed node resolution metric to a simple ratio of min/max edge length, added edge length sd function, changed occlusion metrics slightly (overlapping area is now divided by the total area of only overlapping nodes/edges)&#10;visualization_tool.py: added a best result line">
+      <created>1693214896709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693214896709</updated>
+    </task>
+    <task id="LOCAL-00016" summary="compute_metrics.py: added some time tracking stuff&#10;graph_2d.py: removed some redundant code&#10;graph_3d.py: removed some redundant code&#10;jitter_plots.py: some new datasets and plots&#10;metrics_gd.py: added deviation metrics to crossing res and angular res, adjusted max number of crossings possible, adjusted node node occlusion metric to work with shapely, adjusted occlusion metrics to their original (measures total area of intersection vs possible intersection areas)&#10;parallel_bar_plot.py: removed some redundant code&#10;projections.py: added a line to not recompute existing projections&#10;visualization_tool.py: added more comments">
+      <created>1696410665442</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696410665442</updated>
+    </task>
+    <task id="LOCAL-00017" summary="constants.py: added global boundaries for metrics&#10;jitter_plots.py: removed redundant datasets and plots, finalized the last plots. Added some code for creating the graph layouts of particular viewpoints and 2D layouts&#10;metrics_gd.py: adjusted the computation of the angular resolution deviation&#10;parallel_bar_plot.py: minor adjustments&#10;projec_2d.py: colors are now according to the average metric vals&#10;projections.py: added normalization&#10;quality_sphere.py: changed the crosshair to be drawn according to screen width NOT device width&#10;runner.py: unimportant changes&#10;statistics.py: horrible file for creating latex tables for certain datasets. As well as statistical testing&#10;visualization_tool.py: added some widgets, adjusted some parameters for projections, adjusted color scheme">
+      <created>1700488402718</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1700488402718</updated>
+    </task>
+    <task id="LOCAL-00018" summary="jitter_plots.py: commented out some titles not needed for paper visualizations&#10;projec_2d.py: adjusted the sizes of the points&#10;quality_sphere.py: adjusted the zoom and the size of the crosshair">
+      <created>1701695072571</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701695072571</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fa2util.c: added c file for fa2 cython, currently not working as intendend">
+      <created>1701695801602</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701695801602</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fa2util.c: added c file for fa2 cython, currently not working as intended">
+      <created>1701695816846</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701695816846</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fa2util.c: added c file for fa2 cython, currently not working as intended">
+      <created>1701696073544</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701696073544</updated>
+    </task>
+    <task id="LOCAL-00022" summary="README.md: updated">
+      <created>1701775904533</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701775904533</updated>
+    </task>
+    <task id="LOCAL-00023" summary="small adjustments">
+      <created>1701784193728</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701784193728</updated>
+    </task>
+    <task id="LOCAL-00024" summary="video in readme test">
+      <created>1701784534541</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701784534541</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added projection files for the metrics of three example graphs">
+      <created>1701856862750</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701856862750</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added pickled files of the metric results of three example graphs">
+      <created>1701856905041</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701856905041</updated>
+    </task>
+    <task id="LOCAL-00027" summary="adjusted the name of the directory of where to save metrics, for github">
+      <created>1701856957971</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1701856957971</updated>
+    </task>
+    <task id="LOCAL-00028" summary="README.md: adjusted the instructions for using the tool">
+      <created>1701863979656</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1701863979656</updated>
+    </task>
+    <task id="LOCAL-00029" summary="small changes (whitespaces, blank lines, imports, naming conventions)">
+      <created>1701864018044</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1701864018044</updated>
+    </task>
+    <task id="LOCAL-00030" summary="small changes (whitespaces, blank lines, imports, naming conventions)">
+      <created>1701864025918</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701864025918</updated>
+    </task>
+    <task id="LOCAL-00031" summary="compute_metrics.py: fixed some variable naming, removed timing the quality metrics, removed unused variables and added some comments">
+      <created>1701869127069</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1701869127069</updated>
+    </task>
+    <task id="LOCAL-00032" summary="compute_metrics.py: fixed some variable naming, removed timing the quality metrics, removed unused variables and added some comments">
+      <created>1701871183510</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1701871183510</updated>
+    </task>
+    <task id="LOCAL-00033" summary="metrics_gd.py: removed deprecated functions, added code blocks explaining the functions, fixed some formatting and added a few comments">
+      <created>1701871249251</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1701871249251</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added 2D and 3D layout files of example graphs">
+      <created>1701945951399</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1701945951399</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fixed some variables that were renamed">
+      <created>1701945985007</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1701945985007</updated>
+    </task>
+    <task id="LOCAL-00036" summary="removed unused code (used for modified projections not used in the tool)">
+      <created>1701946003920</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1701946003920</updated>
+    </task>
+    <task id="LOCAL-00037" summary="changed some default arguments">
+      <created>1701946024648</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1701946024648</updated>
+    </task>
+    <task id="LOCAL-00038" summary="updated">
+      <created>1701946051452</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1701946051452</updated>
+    </task>
+    <task id="LOCAL-00039" summary="the hovered point in the scatter plot now always displays the point on top of other points">
+      <created>1701957784378</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1701957784378</updated>
+    </task>
+    <task id="LOCAL-00040" summary="commented out a combobox">
+      <created>1701957861670</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1701957861670</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added some text">
+      <created>1701957871801</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1701957871801</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added json files of the metric data and projection data, these can reliably be converted back to pickled files and therefore fewer issues with git">
+      <created>1702032177035</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1702032177035</updated>
+    </task>
+    <task id="LOCAL-00043" summary="new script that must be run once to turn the json files into pickled files">
+      <created>1702032204395</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1702032204395</updated>
+    </task>
+    <task id="LOCAL-00044" summary="untracked some files">
+      <created>1702032742024</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1702032742024</updated>
+    </task>
+    <task id="LOCAL-00045" summary="changed readme file, minimal example should now work with json files">
+      <created>1702033137822</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1702033137822</updated>
+    </task>
+    <task id="LOCAL-00046" summary="troubleshooting part, git lfs importance">
+      <created>1702034226680</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1702034226680</updated>
+    </task>
+    <task id="LOCAL-00047" summary="spelling">
+      <created>1702034505645</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1702034505645</updated>
+    </task>
+    <task id="LOCAL-00048" summary="consistency of functions">
+      <created>1702303512663</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1702303512663</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added the generated graphs to the data folder as these are not publically available anywhere else">
+      <created>1707745619934</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1707745619934</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="GD_3d_tool/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small adjustments" />
+    <MESSAGE value="video in readme test" />
+    <MESSAGE value="added projection files for the metrics of three example graphs" />
+    <MESSAGE value="added pickled files of the metric results of three example graphs" />
+    <MESSAGE value="adjusted the name of the directory of where to save metrics, for github" />
+    <MESSAGE value="README.md: adjusted the instructions for using the tool" />
+    <MESSAGE value="small changes (whitespaces, blank lines, imports, naming conventions)" />
+    <MESSAGE value="compute_metrics.py: fixed some variable naming, removed timing the quality metrics, removed unused variables and added some comments" />
+    <MESSAGE value="metrics_gd.py: removed deprecated functions, added code blocks explaining the functions, fixed some formatting and added a few comments" />
+    <MESSAGE value="added 2D and 3D layout files of example graphs" />
+    <MESSAGE value="fixed some variables that were renamed" />
+    <MESSAGE value="removed unused code (used for modified projections not used in the tool)" />
+    <MESSAGE value="changed some default arguments" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="the hovered point in the scatter plot now always displays the point on top of other points" />
+    <MESSAGE value="commented out a combobox" />
+    <MESSAGE value="added some text" />
+    <MESSAGE value="added json files of the metric data and projection data, these can reliably be converted back to pickled files and therefore fewer issues with git" />
+    <MESSAGE value="new script that must be run once to turn the json files into pickled files" />
+    <MESSAGE value="untracked some files" />
+    <MESSAGE value="changed readme file, minimal example should now work with json files" />
+    <MESSAGE value="troubleshooting part, git lfs importance" />
+    <MESSAGE value="spelling" />
+    <MESSAGE value="consistency of functions" />
+    <MESSAGE value="added the generated graphs to the data folder as these are not publically available anywhere else" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the generated graphs to the data folder as these are not publically available anywhere else" />
+  </component>
+</project>

@@ -175,17 +175,28 @@ class Tool(pg.GraphicsWindow):
             self.select_button = QPushButton('Select view')
             self.select_button.pressed.connect(self.select_view)
             self.menu.addWidget(self.select_button, len(self.menu.rows), 0)
-            self.select_button.setVisible(True)
+            self.select_button.setVisible(False)
 
-            # adds a button that finds the best solution when scores are normalized
-            self.best_solution_button = QPushButton('Find best solution (norm)')
-            self.best_solution_button.pressed.connect(self.get_best_solution)
-            self.menu.addWidget(self.best_solution_button, len(self.menu.rows), 0)
 
-            # adds a button that finds the best solution with raw values
-            self.best_solution_button_raw = QPushButton('Find best solution')
-            self.best_solution_button_raw.pressed.connect(self.get_best_solution_raw)
-            self.menu.addWidget(self.best_solution_button_raw, len(self.menu.rows), 0)
+            self.select_button_bot = QPushButton('Select bottom viewpoint')
+            self.select_button_bot.pressed.connect(self.select_viewpoint_bot)
+            self.menu.addWidget(self.select_button_bot, len(self.menu.rows), 0)
+            self.select_button_bot.setVisible(True)
+
+            self.select_button_top = QPushButton('Select top viewpoint')
+            self.select_button_top.pressed.connect(self.select_viewpoint_top)
+            self.menu.addWidget(self.select_button_top, len(self.menu.rows), 0)
+            self.select_button_top.setVisible(True)
+
+            # # adds a button that finds the best solution when scores are normalized
+            # self.best_solution_button = QPushButton('Find best solution (norm)')
+            # self.best_solution_button.pressed.connect(self.get_best_solution)
+            # self.menu.addWidget(self.best_solution_button, len(self.menu.rows), 0)
+            #
+            # # adds a button that finds the best solution with raw values
+            # self.best_solution_button_raw = QPushButton('Find best solution')
+            # self.best_solution_button_raw.pressed.connect(self.get_best_solution_raw)
+            # self.menu.addWidget(self.best_solution_button_raw, len(self.menu.rows), 0)
 
             # sliders for qms
             self.n_metrics = len(constants.metrics)
@@ -329,6 +340,15 @@ class Tool(pg.GraphicsWindow):
 
         self.set_tool_lock(not self.view_locked)
         pass
+
+    def select_viewpoint_top(self):
+        self.move_to_viewpoint([1 / np.sqrt(2), 0, 1 / np.sqrt(2)])
+        pass
+
+    def select_viewpoint_bot(self):
+        self.move_to_viewpoint([- 1 / np.sqrt(2), 0, 1 / np.sqrt(2)])
+        pass
+
 
     # deprecated, may be used in the future for user study
     def selected_view_count(self):

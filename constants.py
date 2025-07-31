@@ -11,7 +11,7 @@ perplexities = {'3elt' : 120, 'bcsstk09' : 80, 'block_2000' : 120, 'cage8' : 80,
 
 samples = 1000
 
-metrics_dir = 'metrics_example'
+metrics_dir = 'metrics'
 output_dir = 'layouts'
 analysis_dir = 'analysis'
 metrics_projects_dir = 'metrics_projections'

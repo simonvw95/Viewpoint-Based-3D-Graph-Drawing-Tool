@@ -72,7 +72,7 @@ class QualitySphere(SyncedCameraViewWidget):
         texture_1d = [color_value for color in texture for color_value in color]
 
         self.md = gl.MeshData(vertexes=vertices, faces=faces, vertexColors=vertex_colors)
-        self.mesh_item = CustomMeshItem(texture_1d, meshdata=self.md, smooth=True, shader='custom_shader', glOptions='translucent')
+        self.mesh_item = CustomMeshItem(texture_1d, meshdata=self.md, smooth=True, shader='custom_shader', glOptions='translucent', drawEdges = True)
         self.addItem(self.mesh_item)
         if constants.show_user_picked_viewpoints:
             data = parent.analysis_data.where((parent.analysis_data['projection_method'] == parent.default_layout_technique) &

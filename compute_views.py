@@ -161,13 +161,13 @@ def save_sphere_mesh(samples = 1000):
 
 if __name__ == '__main__':
 
-    projections_3d = glob(os.path.join(constants.output_dir, '*3d.csv'))
+    layouts_3d = glob(os.path.join(constants.output_dir, '*3d.csv'))
 
     # save_sphere_mesh(samples = constants.samples)
     viewpoints = np.load(f'spheres/sphere{constants.samples}_points.npy')
 
-    for proj_file in projections_3d:
-        dataset_name = os.path.basename(proj_file).split('-')[0]
+    for layout_file in layouts_3d:
+        dataset_name = os.path.basename(layout_file).split('-')[0]
         label_file = glob('data/{0}/*-labels.csv'.format(dataset_name))
 
         if len(label_file) == 1:
@@ -176,7 +176,7 @@ if __name__ == '__main__':
         else:
             labels = None
 
-        compute_views(proj_file, viewpoints, labels_list= labels, display = False, manual_rotate = False)
+        compute_views(layout_file, viewpoints, labels_list= labels, display = False, manual_rotate = False)
     plt.clf()
     plt.close('all')
 
